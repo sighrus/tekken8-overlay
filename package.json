@@ -1,0 +1,16 @@
+{
+  "name": "tekken8-overlay",
+  "version": "0.1.0",
+  "description": "Combo, input, and execution-training overlay for Tekken 8",
+  "private": true,
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^32.0.0"
+  },
+  "allowScripts": {
+    "electron@32.3.3": true
+  }
+}
